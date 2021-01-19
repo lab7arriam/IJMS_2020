@@ -1,6 +1,8 @@
 # The Distribution of Several Genomic Virulence Determinants Does Not Corroborate the Established Serotyping Classification of *Bacillus thuringiensis*.
 A repository with working scripts for IJMS (MDPI) 2020 paper
 
+
+<img src="https://github.com/lab7arriam/IJMS_2020/blob/main/pics/Fig3.svg?sanitize=true">
 <img src="https://github.com/lab7arriam/IJMS_2020/blob/main/pics/Fig5.svg?sanitize=true">
 
 ## Reference 
