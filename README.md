@@ -27,9 +27,11 @@ This repository contains scripts used for data preparation for the manuscript. P
   <li><em>download_hags.py</em> - downloads the <i>hag</i> gene sequences from Xu and Côté, 2006 (DOI: 10.1128/AEM.00328-06);</li>
   <li><em>downloading.sh</em> – downloading Bt assemblies the NCBI assembly database;</li>
   <li><em>extract_proteins_for_trees.py</em> – extracting protein sequences from Roary-emanated pangenome for a specific gene cluster;</li>
-  <li><em>ExtractByClusterName.py</em> - extracts nucleotide sequences by the accessions stored in the Roary cluster table;</li>
+  <li><em>extract_proteins.py</em> - extracts sequences from the <i>fasta</i> files based on file containing a list of identifiers</li>
+  <li><em>extract_proteins_blast.py: extracts query identifiers from the previously filtered BLAST outputs and uses them to fetch protein sequences from the <i?multifasta</i> files;</li>
+  <li><em>ExtractByClusterName.py</em> - extracts nucleotide sequences by the accessions stored in the Roary cluster table and fetches sequences from the cluster <i>fasta</i> files;</li>
   <li><em>ExtractByLength.py</em> - finds the longest/shortest sequence in the sequence file</em></li>
-  <li><em>extract_proteins.py'</em> - </li>
+  <li><em>fetch_nucleotide.py'</em>: assigns sequences from the HMMer or BLAST output to the Roary cluster reprsentatives adn</li>
   <li><em>get_mean_identity.py</em> – evaluating mean paired sequence identity in the fasta file;</li>
   <li><em>parse_tree_topology.py</em> – assessing the lengths of subtrees containing representatives of <em>Bt</em> serovars (table S14 in the article);</li>
   <li><em>roary_stat.py</em>, <em>summ_roary_stat.py</em> – excluding assemblies from the Roaty-generated pangenome based on the abundance of common gene clusters;</li>
