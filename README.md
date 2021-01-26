@@ -34,7 +34,7 @@ This repository contains scripts used for data preparation for the manuscript. P
   <li><em>ExtractByLength.py</em> - finds the longest/shortest sequence in the sequence file</em></li>
   <li><em>fetch_nucleotide.py'</em>: assigns sequences from the HMMer or BLAST output to the Roary cluster reprsentatives adn</li>
   <li><em>get_mean_identity.py</em> – evaluating mean paired sequence identity in the fasta file (for <b>Table S8</b> in the article);</li>
-  <li><em>parse_tree_topology.py</em> – assessing the lengths of subtrees containing representatives of <em>Bt</em> serovars (<b>table S14</b> in the article);</li>
+  <li><em>parse_tree_topology.py</em> – assessing the lengths of subtrees containing representatives of <em>Bt</em> serovars (<b>Table S14</b> in the article);</li>
   <li><em>roary_stat.py</em>, <em>summ_roary_stat.py</em> – excluding assemblies from the Roary-generated pangenome based on the abundance of common gene clusters;</li>
-  <li><em>summarize_proteins_from_dige.py</em> – gathering the gene presence/absence results based on diamond blastp results (<b>table S6</b> in the article).</li>
+  <li><em>summarize_proteins_from_dige.py</em> – gathering the gene presence/absence results based on diamond blastp results (<b>Table S6</b> in the article).</li>
 </ul>
