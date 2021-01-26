@@ -14,6 +14,7 @@ This repository contains scripts used for data preparation for the manuscript. P
 
 ## Scripts' description
 <ul>
+  <li><em>agregate_flagelin_data.py</em> - summarizes the results about 3-D cry proteins spectra in the assemblies based on CryProcessor results;</li>
   <li><em>agregate_flagelin_data.py</em>, <em>compare_flagellin_sets.py</em> – aggregating the distribution of lengths and abundances of the flagellin sequences clustered via Roary (Table S10 in the article);</li>
   <li><em>annotate_bt_assemblies.py</em> – summarizing metadata of the assemblies inspected (Table S4 in the article);</li>
   <li><em>bt_pangenome_tree.R</em> – visualizing trees and heatmaps, performing PCA;</li>
