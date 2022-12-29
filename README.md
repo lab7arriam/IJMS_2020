@@ -7,7 +7,7 @@ A repository with working scripts for IJMS (MDPI) 2020 paper
 
 ## Reference 
 
-Anton E. Shikov, Yury V. Malovichko  *et al.*, [The Distribution of Several Genomic Virulence Determinants Does Not Corroborate the Established Serotyping Classification of *Bacillus thuringiensis*](https://www.mdpi.com/1422-0067/22/5/2244).
+If you use the code/data from this repotitoy please cite: Shikov, A.E.; Malovichko, Y.V.; Lobov, A.A.; Belousova, M.E.; Nizhnikov, A.A.; Antonets, K.S. The Distribution of Several Genomic Virulence Determinants Does Not Corroborate the Established Serotyping Classification of Bacillus thuringiensis. Int. J. Mol. Sci. 2021, 22, 2244. https://doi.org/10.3390/ijms22052244
 ## Contents 
 
 This repository contains scripts used for data preparation for the manuscript. Please consult the Methods section in the paper for extra details. 
